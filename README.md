@@ -53,8 +53,7 @@ The goal is to transform raw transactional data into actionable intelligence for
 
 ---
 
-## 📷 Dashboard Highlights
-> *(Include screenshots of your Power BI visuals here once exported)*  
+## 📷 Dashboard Highlights 
 Key visualizations include:
 - Sales Trend over Time  
 - Product Category Analysis  
